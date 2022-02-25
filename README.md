@@ -1,8 +1,8 @@
 # TodoList_App :star_struck: 
 
-[![Generic badge](https://img.shields.io/badge/java-v%2015-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-app-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/xml-UI-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/classpath-v%204.0.1-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/compile%20sdk%20-v%2030-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/buildtool%20-v%2030.0..2-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/target%20sdk-v%2030-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/min%20sdk-v%2016-purple)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/kotlin-language-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-app-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/xml-UI-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/classpath-v%204.0.1-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/compile%20sdk%20-v%2030-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/buildtool%20-v%2030.0..2-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/target%20sdk-v%2030-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/min%20sdk-v%2016-purple)](https://shields.io/) 
 
-***This new android application named 'TODO-LIS TAPP' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new android application named 'TODO-LIST APP' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -18,44 +18,37 @@
 
 <div align="justified">
  
-This Brain Trainer android application is created with java. Brain training games ask players to complete tasks that practice specific cognitive skills like memory, attention, logic, and quick thinking.Here if we open this app and start by clicking on the button 'GET STARTED', a mcq test will be started with questions of sums. Here we have to choose the correct answer among four questions. For 30 seconds this test wil continue then we will get the score out of no. of questions attended the no. of correct answers. This test is to check our speed and attentiveness. As much our score is as fast we can work. Here I have designed the app with an arc reacter which starts at the beginning of the test and stops at the end. We can start the test again by clicking on the button 'PLAY AGAIN'. This app is very easy to use and helpful to check our speed.
+This todolist is created using kotlin for android mobile phones. In this app user can add lists of works to do. That work can be edited, deleted, marked as complete, reset. Such a plenty of options user gives comfotable space to listout works. Here user can also add sub-tasks ineach todo. For each sub-task there are option to edit, delete. Also sub-tasks can be placed according to our choice. We can set the list as we want. Like these the tasks and sub-tasks helps us maintaining our tasks as per our schedule or due date. This todolist android app is very easy to use and also it is easy to maintain the tasks.
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1oWa9ZBfbnRb4JFa-2zTFMaAJbEsiVub9/view" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1EjOehwi_eCX_g2wEvOzLFQPeJwvuVMMU/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
 <div align="justified">
        
-I have made this brain trainer android application for people of any ages for checking their speed and attentiveness.
+I have made this todolist android app to maintain my tasks and also for other user's tasks. This app can be easily used in our phone any time.
+ 
 </div>
        
 ## Importance :point_down:
 
 <div align="justified">
 
-People of all ages use these games to improve mental functioning and prevent brain aging. Brain training may help improve your memory, response time, and logic skills, although research shows that the relationship between brain training games and improved cognitive function is complicated. Although brain games might not have the magical benefits you hoped for, they are not a total wash. Turns out, by playing a certain game over and over again, you are actually changing the way your brain works. “The benefits engendered by video game play are often the result of neuroplasticity, the ability of the brain to modify its structure, chemistry, and function in response to a challenge."
+One of the most important reasons we should use a to do list is that it will help us stay organised. When we write all your tasks in a list, they seem more manageable. When we’ve got a clear outline of the tasks we’ve got to do and those we’ve completed, it helps us stay focused. While freeing up space in our mind for other more creative tasks.
+When we complete a task, you can cross it off our list. This gives you a sense of progress and achievement, something we’ll lack if we’re always rushing from one task to the next. If we feel a sense of achievement, it spurs us on and motivates us to keep moving forward.
  
 </div>
 
 ## Folder Structure :point_down:
-```bash
-brain-trainer-android-app
-      └── app
-           └── src
-                └── main
-                      └── java/com/example/braintrainer
-                                     ├── MainActivity.java
-                                     ├── gointent.java
-                                     └── splashscreen.java   
- ```                      
+           
 ## Making :point_down:
 
 <div align="justified">
 
-I have created main 3 java files to create this android app. I have created MainActivity.java, gointent.java, splashscreen.java and created some logics for implementation of this app. 
-
+I have this app using kotlin.
+ 
 </div>
 
 
@@ -63,9 +56,11 @@ I have created main 3 java files to create this android app. I have created Main
 
 <div align="center">
   
-<a href="pics/bt1.jpeg"><img src="pics/bt1.jpeg" width="250" height= "450"></a> <a href="pics/bt2.jpeg"><img src="pics/bt2.jpeg" width="250" height= "450"></a> <a href="pics/bt3.jpeg"><img src="pics/bt3.jpeg" width="250" height= "450"></a>
+<a href="pics/t1.jpeg"><img src="pics/t1.jpeg" width="250" height= "450"></a> <a href="pics/t2.jpeg"><img src="pics/t2.jpeg" width="250" height= "450"></a> <a href="pics/t3.jpeg"><img src="pics/t3.jpeg" width="250" height= "450"></a>
  
-<a href="pics/bt4.jpeg"><img src="pics/bt4.jpeg" width="250" height= "450"></a> <a href="pics/bt5.jpeg"><img src="pics/bt5.jpeg" width="250" height= "450"></a> <a href="pics/bt6.jpeg"><img src="pics/bt6.jpeg" width="250" height= "450"></a>
+<a href="pics/t4.jpeg"><img src="pics/t4.jpeg" width="250" height= "450"></a> <a href="pics/t5.jpeg"><img src="pics/t5.jpeg" width="250" height= "450"></a> <a href="pics/t6.jpeg"><img src="pics/t6.jpeg" width="250" height= "450"></a>
+
+<a href="pics/t7.jpeg"><img src="pics/t7.jpeg" width="250" height= "450"></a> <a href="pics/t8.jpeg"><img src="pics/t8.jpeg" width="250" height= "450"></a> <a href="pics/t9.jpeg"><img src="pics/t9.jpeg" width="250" height= "450"></a>
        
 </div>
 
