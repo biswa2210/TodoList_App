@@ -42,7 +42,25 @@ When we complete a task, you can cross it off our list. This gives you a sense o
 </div>
 
 ## Folder Structure :point_down:
-           
+```bash
+todo-list-app
+      └── app
+           └── src
+                ├──androidTest/java/com/example/vicky/todolist
+                |                             └── ExampleInstrumentedTest.kt
+                ├── test/java/com/example/vicky/todolist
+                |                             └── ExampleUnitTest.kt
+                └── main
+                      └── java/com/example/vicky/todolist
+                                     ├── DTO
+                                     |   ├── ToDo.kt
+                                     |   └── ToDoItem.kt
+                                     ├── Const.kt
+                                     ├── DHandler.kt
+                                     ├── DashboardActivity.kt
+                                     ├── ItemActivity.kt
+                                     └── MainActivity.kt
+ ```             
 ## Making :point_down:
 
 <div align="justified">
