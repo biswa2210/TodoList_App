@@ -22,6 +22,10 @@ This todolist is created using kotlin for android mobile phones. In this app use
 
 </div>
 
+## TODOLIST DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=qCVDvVME23Y&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=4">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1EjOehwi_eCX_g2wEvOzLFQPeJwvuVMMU/view" download>Click here to download</a>
 
 ## Purpose :point_down:
